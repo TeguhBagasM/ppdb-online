@@ -5,7 +5,7 @@
     <div class="container">
       <div class="header-container d-flex align-items-center">
         <div class="logo mr-auto">
-          <h1 class="text-light"><a href="{{ route('landing-page') }}"><span>Harapan Bangsa</span></a></h1>
+          <h1 class="text-light"><a href="{{ route('landing-page') }}"><span>SMKN 2 Cimahi</span></a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
           <!-- <a href="index.html"><img src="{{asset('assets/img/logo.png')}}" alt="" class="img-fluid"></a>-->
         </div>
@@ -27,7 +27,7 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center">
     <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
-    <h1>Selamat Datang di SMK Harapan Bangsa </h1>
+    <h1>Selamat Datang di SMK Negeri 2 Cimahi </h1>
     <h2>Ayo Kita Belajar Bersama</h2>
     <a href="{{ route('daftar') }}" class="btn-get-started scrollto">Daftar Sekarang</a>
     </div>
@@ -41,14 +41,14 @@
 
         <div class="row content">
         <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="{{asset('assets/img/kepala-sekolah.jpg')}}" alt="" class="img-fluid">
+            <img src="{{asset('assets/img/kepsek.jpg')}}" alt="" class="img-fluid">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
             <p>
-            Sekolah Harapan Bangsa didirikan pada tahun 1995 untuk memenuhi kebutuhan akademik yang semakin berkembang di Modernland, yang berada di atas tanah seluas 330 hektar di kawasan metropolitan, Tangerang. Dengan tujuan untuk mendidik murid-murid sebagai harapan bagi bangsa.
+            Sekolah SMKN 2 Cimahi didirikan pada tahun 1995 untuk memenuhi kebutuhan akademik yang semakin berkembang di Modernland, yang berada di atas tanah seluas 330 hektar di kawasan metropolitan, Tangerang. Dengan tujuan untuk mendidik murid-murid sebagai harapan bagi bangsa.
             </p>
             <p class="font-italic">
-            Diawali saat PT Modernland Realty mengakuisisi Sekolah Ganesha yang berada di Jl. Pulau Putri Raya Kav 10, Modernland, Tangerang dan menamainya dengan Sekolah Harapan Bangsa, yang bernaung di bawah YayasanPendidikan Harapan Bangsa. Dengan jumlah awal 100 siswa dan 20 guru dari kelas satu sampai empat. Kini Sekolah Harapan Bangsa telah menghasilkan ratusan lulusan di sepanjang perjalanannya.
+            Diawali saat PT Modernland Realty mengakuisisi Sekolah Ganesha yang berada di Jl. Pulau Putri Raya Kav 10, Modernland, Tangerang dan menamainya dengan Sekolah SMKN 2 Cimahi, yang bernaung di bawah YayasanPendidikan SMKN 2 Cimahi. Dengan jumlah awal 100 siswa dan 20 guru dari kelas satu sampai empat. Kini Sekolah SMKN 2 Cimahi telah menghasilkan ratusan lulusan di sepanjang perjalanannya.
             </p>
         </div>
         </div>
@@ -65,7 +65,7 @@
             <div class="content">
             <h3>Kenapa Memilih Sekolah Ini?</h3>
             <p>
-                Lebih dari 1,750 siswa-siswi dengan beragam latar belakang datang ke Sekolah Harapan Bangsa mencari sebuah lembaga pendidikan formal yang mempunyai pengakuan luar biasa baik secara prestasi akademik, proses belajar mengajar serta suasana belajar yang menyenangkan, tenaga pengajar dan staff yang kompeten, kesempatan untuk meraih beasiswa, dan penerapan
+                Lebih dari 1,750 siswa-siswi dengan beragam latar belakang datang ke Sekolah SMKN 2 Cimahi mencari sebuah lembaga pendidikan formal yang mempunyai pengakuan luar biasa baik secara prestasi akademik, proses belajar mengajar serta suasana belajar yang menyenangkan, tenaga pengajar dan staff yang kompeten, kesempatan untuk meraih beasiswa, dan penerapan
     kurikulum nasio di Indonesia tetapi juga kompeten secara global.
             </p>
             </div>

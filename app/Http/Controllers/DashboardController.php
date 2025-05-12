@@ -78,7 +78,7 @@ class DashboardController extends Controller
     public function download()
     {
         $data = PesertaPPDB::all();      
-        $pdf = \PDF::loadView('pdf.laporan', [
+        $pdf = \Barryvdh\DomPDF\Facade\Pdf::loadView('pdf.laporan', [
                 'data' => $data
             ]);
         return $pdf->download('laporan.pdf');
